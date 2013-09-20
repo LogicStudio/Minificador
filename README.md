@@ -17,5 +17,5 @@ El primer proceso de "Creating Temp Folder" puede tardar un poco dependiendo del
 </configuration>
 ```
 
-En el archivo LogiStudio.Paradise.Minifier.exe.config, cambiar la ruta por la de su aplicación.
-value = "Ruta de su aplicación"
+En el archivo LogiStudio.Paradise.Minifier.exe.config, en el campo value = "Ruta de su aplicación"
+cambiar la ruta por la de su aplicación.
